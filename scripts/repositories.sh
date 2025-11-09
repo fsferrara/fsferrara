@@ -3,7 +3,6 @@
 REPOSITORIES_RECENT=(
     "fsferrara/machines"
     "fsferrara/brain"
-    "fsferrara/playground-swift-ios"
     "fsferrara/fsferrara.github.io"
     "fsferrara/sandbox"
     "fsferrara/fsferrara"
