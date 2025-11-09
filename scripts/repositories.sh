@@ -14,17 +14,15 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/knowledge-worker-copilot-template"
     "fsferrara/modern-unix"
     "fsferrara/gha-learning"
-    "fsferrara/codemotion-vscode-ws"
-    "fsferrara/introduction-to-maven-plugin"
-    "fsferrara/venere-java"
-    "fsferrara/mystica"
-    "fsferrara/u-box"
+    "fsferrara/private"
     "fsferrara/bricobravo-app"
     "fsferrara/tradurreantico-box"
 )
 
 REPOSITORIES_ARCHIVE=(
     "fsferrara/docusaurus-blog"
+    "fsferrara/venere"
+    "fsferrara/u-box"
     "fsferrara/heat"
     "fsferrara/machine-learning-coursera"
     "fsferrara/octopress-blog"
