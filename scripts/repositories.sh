@@ -15,6 +15,7 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/gha-learning"
     "fsferrara/private"
     "fsferrara/bricobravo-app"
+    "fsferrara/tradurreantico-web"
     "fsferrara/tradurreantico-box"
 )
 
