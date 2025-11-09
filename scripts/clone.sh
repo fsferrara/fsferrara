@@ -20,11 +20,15 @@ source "$SCRIPT_DIR/common-functions.sh"
 
 source "$SCRIPT_DIR/repositories.sh"
 
-DRY_RUN="false"\
+DRY_RUN="false"
 VERBOSE="false"
 LIST_NAME=""
 
-REMOTE_PROVIDER_URI="git@github.com:"
+# check it REMOTE_PROVIDER_URI is set, otherwise set to default
+if [ -z "$REMOTE_PROVIDER_URI" ]; then
+    REMOTE_PROVIDER_URI="git@github.com:"
+fi
+
 REMOTE_PROVIDER_TRAILING=".git"
 
 WORKSPACE_DIR="${HOME}/github"
