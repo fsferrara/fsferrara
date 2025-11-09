@@ -16,7 +16,6 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/gha-learning"
     "fsferrara/codemotion-vscode-ws"
     "fsferrara/introduction-to-maven-plugin"
-    "fsferrara/boostnote-markdown-cheatsheet"
     "fsferrara/venere-java"
     "fsferrara/mystica"
     "fsferrara/u-box"
