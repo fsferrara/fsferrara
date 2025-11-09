@@ -6,6 +6,7 @@ REPOSITORIES_RECENT=(
     "fsferrara/fsferrara.github.io"
     "fsferrara/sandbox"
     "fsferrara/fsferrara"
+    "fsferrara/private"
 )
 
 REPOSITORIES_ACTIVE=(
@@ -13,13 +14,12 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/knowledge-worker-copilot-template"
     "fsferrara/modern-unix"
     "fsferrara/gha-learning"
-    "fsferrara/private"
-    "fsferrara/bricobravo-app"
     "fsferrara/tradurreantico-web"
     "fsferrara/tradurreantico-box"
 )
 
 REPOSITORIES_ARCHIVE=(
+    "fsferrara/bricobravo-app"
     "fsferrara/docusaurus-blog"
     "fsferrara/venere"
     "fsferrara/u-box"
@@ -42,4 +42,3 @@ REPOSITORIES_ARCHIVE=(
 )
 
 REPOSITORIES_ALL=("${REPOSITORIES_ACTIVE[@]}" "${REPOSITORIES_ARCHIVE[@]}")
-
