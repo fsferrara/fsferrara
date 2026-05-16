@@ -11,7 +11,7 @@ REPOSITORIES_RECENT=(
 
 REPOSITORIES_ACTIVE=(
     "${REPOSITORIES_RECENT[@]}"
-    "fsferrara/knowledge-worker-copilot-template"
+    "fsferrara/pkm-agent-vault"
     "fsferrara/modern-unix"
     "fsferrara/gha-learning"
     "fsferrara/tradurreantico-web"
