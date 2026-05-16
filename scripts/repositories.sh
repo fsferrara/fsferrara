@@ -13,12 +13,13 @@ REPOSITORIES_ACTIVE=(
     "${REPOSITORIES_RECENT[@]}"
     "fsferrara/pkm-agent-vault"
     "fsferrara/modern-unix"
-    "fsferrara/gha-learning"
+    "fsferrara/coding-agents"
     "fsferrara/tradurreantico-web"
     "fsferrara/tradurreantico-box"
 )
 
 REPOSITORIES_ARCHIVE=(
+    "fsferrara/gha-learning"
     "fsferrara/bricobravo-app"
     "fsferrara/docusaurus-blog"
     "fsferrara/venere"
