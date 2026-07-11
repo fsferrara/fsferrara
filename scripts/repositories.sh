@@ -14,8 +14,6 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/pkm-agent-vault"
     "fsferrara/modern-unix"
     "fsferrara/coding-agents"
-    "fsferrara/tradurreantico-web"
-    "fsferrara/tradurreantico-box"
 )
 
 REPOSITORIES_ARCHIVE=(
@@ -32,6 +30,8 @@ REPOSITORIES_ARCHIVE=(
     "fsferrara/legacy-address-book"
     "fsferrara/wally"
     "fsferrara/fantacalcio"
+    "fsferrara/tradurreantico-web"
+    "fsferrara/tradurreantico-box"
     "fsferrara/turing-machines"
     "fsferrara/mpv955"
     "fsferrara/etna"
