@@ -13,7 +13,7 @@ REPOSITORIES_ACTIVE=(
     "${REPOSITORIES_RECENT[@]}"
     "fsferrara/pkm-agent-vault"
     "fsferrara/modern-unix"
-    "fsferrara/coding-agents"
+    "fsferrara/agentic-engineering"
 )
 
 REPOSITORIES_ARCHIVE=(
