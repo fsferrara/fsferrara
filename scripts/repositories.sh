@@ -2,7 +2,6 @@
 
 REPOSITORIES_RECENT=(
     "fsferrara/brain"
-    "fsferrara/fsferrara.github.io"
     "fsferrara/fsferrara"
     "fsferrara/machines"
     "fsferrara/private"
@@ -11,6 +10,7 @@ REPOSITORIES_RECENT=(
 REPOSITORIES_ACTIVE=(
     "${REPOSITORIES_RECENT[@]}"
     "fsferrara/agentic-engineering"
+    "fsferrara/fsferrara.github.io"
     "fsferrara/sandbox"
 )
 
