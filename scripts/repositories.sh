@@ -1,22 +1,22 @@
 #!/usr/bin/env bash
 
 REPOSITORIES_RECENT=(
-    "fsferrara/machines"
     "fsferrara/brain"
     "fsferrara/fsferrara.github.io"
-    "fsferrara/sandbox"
     "fsferrara/fsferrara"
+    "fsferrara/machines"
     "fsferrara/private"
 )
 
 REPOSITORIES_ACTIVE=(
     "${REPOSITORIES_RECENT[@]}"
-    "fsferrara/pkm-agent-vault"
-    "fsferrara/modern-unix"
     "fsferrara/agentic-engineering"
+    "fsferrara/sandbox"
 )
 
 REPOSITORIES_ARCHIVE=(
+    "fsferrara/pkm-agent-vault"
+    "fsferrara/modern-unix"
     "fsferrara/gha-learning"
     "fsferrara/bricobravo-app"
     "fsferrara/docusaurus-blog"

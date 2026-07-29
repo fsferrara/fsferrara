@@ -31,7 +31,7 @@ fi
 
 REMOTE_PROVIDER_TRAILING=".git"
 
-WORKSPACE_DIR="${HOME}/github"
+WORKSPACE_DIR="${HOME}/workspace"
 
 
 
