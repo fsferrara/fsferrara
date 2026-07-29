@@ -8,7 +8,6 @@
 
 # Get the directory where this script is located
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-CURRENT_DIR="$(pwd)"
 
 set -e  # Exit on error
 
@@ -30,8 +29,10 @@ fi
 
 REMOTE_PROVIDER_TRAILING=".git"
 
-WORKSPACE_DIR="${HOME}/workspace"
-
+WORKSPACE_DIR="${HOME}/workspace/personal"
+if [ ! -d "$WORKSPACE_DIR" ]; then
+    WORKSPACE_DIR="${HOME}/workspace"
+fi
 
 
 # -----------------------------------------------------------------------------
