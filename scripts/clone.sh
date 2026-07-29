@@ -11,7 +11,6 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 CURRENT_DIR="$(pwd)"
 
 set -e  # Exit on error
-source "$SCRIPT_DIR/common-functions.sh"
 
 
 # -----------------------------------------------------------------------------
