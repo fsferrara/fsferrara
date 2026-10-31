@@ -15,6 +15,7 @@ REPOSITORIES_ACTIVE=(
 )
 
 REPOSITORIES_ARCHIVE=(
+    "fsferrara/open-engineer"
     "fsferrara/pkm-agent-vault"
     "fsferrara/modern-unix"
     "fsferrara/gha-learning"
