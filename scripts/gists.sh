@@ -2,7 +2,6 @@
 
 # Each entry is the gist owner's GitHub username followed by the gist ID.
 GISTS=(
-    "fsferrara/f1331d2c2264f3b02a9c948e618233a4"
     "fsferrara/0202a0824f89687ac32d"
     "fsferrara/11322737"
     "fsferrara/24064f320486c3d9a6f863a98016e1d1"
