@@ -12,6 +12,7 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/agentic-engineering"
     "fsferrara/fsferrara.github.io"
     "fsferrara/sandbox"
+    "fsferrara/auto-fix-pr"
 )
 
 REPOSITORIES_ARCHIVE=(
