@@ -13,6 +13,7 @@ REPOSITORIES_ACTIVE=(
     "fsferrara/fsferrara.github.io"
     "fsferrara/sandbox"
     "fsferrara/auto-fix-pr"
+    "fsferrara/code-review"
 )
 
 REPOSITORIES_ARCHIVE=(
